@@ -4,7 +4,7 @@
 <h3 align="center">A passionate frontend developer 🇮🇳</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg">
 
-- 🔭 I’m currently working on **React.js**
+- 🔭 I’m currently working on **SKILLFINDER**
 
 - 🌱 I’m currently learning **Js frameworks**
 
