@@ -4,13 +4,13 @@
 <h3 align="center">A passionate frontend developer 🇮🇳</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg">
 
-- 🔭 I’m currently working on **HAL-KART**
+- 🔭 I’m currently working @ **LTI Mindtree**
 
 - 🌱 I’m currently learning **Js frameworks**
 
 - 📫 How to reach me **deepanshudp10@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **The first computer bug was a literal bug**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
